@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Leave Planner - Bug report
+about: Create a report to help us improve the Leave Planner application
 title: ''
-labels: ''
+labels: bug, leave planner
 assignees: ''
 
 ---
